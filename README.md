@@ -1,8 +1,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=6&section=header"/>
+
 <br>
 
 <div align="center">
-  <img align="center" height="150" width="150" src="https://wsrv.nl/?url=github.com/Matheus-Soares-Rothje.png%3Fsize%3D400&mask=circle" />
+  <img align="center" height="150" width="150" src="https://wsrv.nl/?url=github.com/Matheus-Soares-Rothje.png%3Fsize%3D400&mask=circle&output=png" />
 </div>
 
 <div align="center">
