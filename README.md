@@ -137,14 +137,14 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Matheus-Soares-Rothje&show_icons=true&count_private=true&hide_title=true&hide_border=true&bg_color=00000000&title_color=2ee6ff&icon_color=2ee6ff&text_color=c7f5ff" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Matheus-Soares-Rothje&hide_border=true&background=00000000&stroke=2ee6ff&ring=2ee6ff&fire=2ee6ff&currStreakLabel=2ee6ff&sideLabels=c7f5ff&currStreakNum=c7f5ff&sideNums=c7f5ff&dates=5fb8cc" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=Matheus-Soares-Rothje&show_icons=true&count_private=true&hide_title=true&hide_border=true&bg_color=00000000&title_color=2ee6ff&icon_color=2ee6ff&text_color=c7f5ff" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=Matheus-Soares-Rothje&hide_border=true&background=00000000&stroke=2ee6ff&ring=2ee6ff&fire=2ee6ff&currStreakLabel=2ee6ff&sideLabels=c7f5ff&currStreakNum=c7f5ff&sideNums=c7f5ff&dates=5fb8cc" height="165"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Soares-Rothje&layout=pie&hide_border=true&bg_color=00000000&title_color=2ee6ff&text_color=c7f5ff&langs_count=8" height="260"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Matheus-Soares-Rothje&layout=pie&hide_border=true&bg_color=00000000&title_color=2ee6ff&text_color=c7f5ff&langs_count=8" height="260"/>
 </div>
 
 <br>
