@@ -159,7 +159,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Soares-Rothje&layout=compact&hide_border=true&bg_color=00000000&title_color=2ee6ff&text_color=c7f5ff&langs_count=8" height="220"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Soares-Rothje&layout=pie&hide_border=true&bg_color=00000000&title_color=2ee6ff&text_color=c7f5ff&langs_count=8" height="260"/>
 </div>
 
 <br>
