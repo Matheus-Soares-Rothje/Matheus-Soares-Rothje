@@ -75,42 +75,6 @@
 <div align="center">
   <samp>
     <b>
-      // POR QUE CONTRATAR
-    </b>
-  </samp>
-  <br><br>
-  <samp>
-    &gt; Foco em resolver problemas reais<br>
-    &gt; Expert em automações Python<br>
-    &gt; Aprende rápido, evolui sempre<br>
-    &gt; Ideia -&gt; produto funcional, de verdade<br>
-    &gt; Comprometido com qualidade e prazos
-  </samp>
-</div>
-
-<br>
-
-<div align="center">
-  <samp>
-    <b>
-      // LOG DE SISTEMA
-    </b>
-  </samp>
-  <br><br>
-  <samp>
-    Dev Full Stack com foco em Python e automações — movido a cafeína e boas<br>
-    ideias. Programar é criar algo do zero: transformar uma ideia em algo<br>
-    funcional e útil é o que me motiva todos os dias. Hoje me aprofundo nas<br>
-    áreas que mais admiro, aprendendo na teoria e na prática. Objetivo: chegar<br>
-    longe, construir uma vida com propósito e deixar minhas ideias pelo mundo.
-  </samp>
-</div>
-
-<br>
-
-<div align="center">
-  <samp>
-    <b>
       Contact me:
     </b>
   </samp>
